@@ -13,7 +13,7 @@ You are only two steps away from accepting payments with zookr gateway
 ```
 URL: https://zookr.in
 ```
- ## Transaction Request API (GET)
+ ## Transaction Request API (POST)
  ```
  /api/gateway/live/payment/
  ```
